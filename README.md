@@ -2,7 +2,7 @@
 
 ![pratayang](view.gif) 
 
-API ini sengaja tidak disembunyikan karena tujuannya untuk contoh, bukan untuk digunakan pada versi produksi.
+API ini sengaja tidak disembunyikan karena tujuannya untuk contoh, bukan untuk digunakan pada versi produksi, untuk keperluan kependidikan. Untuk mendapatkan API itu sendiri, bisa cek di [https://aistudio.google.com/app/apikey](https://aistudio.google.com/app/apikey).
 
 ## Cara Menggunakan
 
